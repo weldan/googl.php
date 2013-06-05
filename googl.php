@@ -38,7 +38,7 @@ class Googl {
 	private function printhelp() {
 		// print help text
 		echo "\n===========================================\n";
-		echo "googl.py - A googl url shortener cli script\n";  
+		echo "googl.php - A googl url shortener cli script\n";  
 		echo "[ Weldan Jamili <mweldan@gmail.com> ]\n";
 		echo "-------------------------------------------\n";
 		echo "Usage: ./googl.php http://mweldan.com\n";
